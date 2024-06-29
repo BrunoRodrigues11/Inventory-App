@@ -54,9 +54,9 @@ class _InitHomePageState extends State<InitHomePage> {
                 selectedIcon: Icon(Icons.computer),
                 label: "Computadores"),
             NavigationDestination(
-                icon: Icon(Icons.search_outlined),
-                selectedIcon: Icon(Icons.search),
-                label: "Pesquisar"),
+                icon: Icon(Icons.smartphone_outlined),
+                selectedIcon: Icon(Icons.smartphone),
+                label: "Celulares"),
           ],
         ),
       ),
